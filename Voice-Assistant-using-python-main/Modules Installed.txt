@@ -1,19 +1,46 @@
 Modules Installed
 
-1.Pyttsx3: This module is used for conversion of text to speech in a program it works offline. 
-To install this module type the below command in the terminal.
-pip install pyttsx3
+1.Pyttsx3
+This module is used for the conversion of text to speech in a program and works offline.
 
-2.Wikipedia: As we all know Wikipedia is a great source of knowledge. We 
-have used Wikipedia module to get information from Wikipedia or to perform Wikipedia search. 
-To install this module type the below command in the terminal.
-pip install wikipedia
+2.Wikipedia
+This module is used to fetch information from Wikipedia or perform Wikipedia searches. It’s a great way to incorporate knowledge from Wikipedia into your program.
 
-3.Speech Recognition: Since we’re building an Application of voice assistant, one of the most
-important things in this is that your assistant recognizes your voice (means what you want to say/ ask). 
-To install this module type the below command in the terminal.
-pip install SpeechRecognition
+3.Speech Recognition
+This module is used for voice recognition. It helps the application understand and process voice commands from the user.
 
-4.Web browser: To perform Web Search. This module comes buit-in with Python.
+4.Webbrowser
+This module is used to perform web searches or open URLs in the default web browser. It is built-in with Python.
 
-5.Datetime: Date and Time is used to showing Date and Time. This module comes built-int with Python
+5.Datetime
+This module is used to retrieve and display the current date and time. It is essential for time-based functionalities in the assistant.
+
+6.Requests
+This module is used to make HTTP requests, enabling your program to interact with web APIs or retrieve data from websites.
+
+7.PyWhatKit
+This module is used to perform various online tasks, such as sending WhatsApp messages, playing YouTube videos, or searching on Google.
+
+8.Pyjokes
+This module is used to generate and display programming-related jokes in your application.
+
+9.Wolframalpha
+This module is used to query the WolframAlpha API for computational and knowledge-based answers.
+
+10.Shutil
+This module provides high-level file operations, such as copying and removing directories.
+
+11.OS
+This module allows interaction with the operating system, including handling files and directories.
+
+12.Subprocess
+This module is used to spawn new processes, interact with their input/output, and retrieve their return codes.
+
+13.Tkinter
+This module is used to create graphical user interfaces (GUIs) for your application.
+
+14.Clint
+This module provides tools for command-line interfaces, including progress bars for better user interaction.
+
+15.Ecapture
+This module allows you to access the camera and capture images or videos through your program
