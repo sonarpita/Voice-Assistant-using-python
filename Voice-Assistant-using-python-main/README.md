@@ -2,8 +2,6 @@
 
 This is the simple application of the speech recognition module where the text is processed and a voice reply is generated back to the user.
 
-<img src="https://github.com/Govind155/Voice-Assistant-using-python/blob/main/logo.JPG">
-
 ## What can this Voice Assistant do ?
 
 - It can send emails for you.   
